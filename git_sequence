@@ -1,0 +1,8 @@
+git clone # whatever you want to clone, click the code button on the page that you want
+git status
+git diff # filename
+git add # filename README.md 
+git status
+git commit -m "updated readme file, initial commit" # -m = message
+git push origin master # make sure to check if it's master or main or whatever
+git push origin main

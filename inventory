@@ -1,1 +1,2 @@
-192.168.122.204 #debian12
+192.168.122.204 ansible_user=testing #debian12
+192.168.122.171 ansible_user=testing #bookworm
